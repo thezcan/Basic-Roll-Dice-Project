@@ -1,3 +1,3 @@
 # Basic-Roll-Dice-Project!
-![rollDice](https://i.hizliresim.com/63im2ax.jpg)
-![rollDice](https://i.hizliresim.com/4dcn820.jpg)
+![rollDice](https://i.hizliresim.com/jtsn8z5.jpg)
+![rollDice](https://i.hizliresim.com/6j6m67j.jpg)
